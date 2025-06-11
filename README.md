@@ -1,5 +1,6 @@
 # Automating-Deployment-of-an-E-commerce-website
 
+<<<<<<< HEAD
  As a DevOps Engineer, I am tasked with designing and implementing a CI/CD pipeline using Jenkins to automate the deployment of a web application for a technology consulting firm. The primary goals are to achieve continuous integration, continuous deployment, scalability, and reliability.
 
 
@@ -260,3 +261,6 @@ iv. **Run the Pipeline**
    - Click **Build Now** in Jenkins.
    - Check the console output to verify the Docker image is built and pushed to Docker Hub.
 ![5](./img/5e.png)
+=======
+what
+>>>>>>> f8c74f6b5026f930980bbe9cd1c4c8159c46520e
